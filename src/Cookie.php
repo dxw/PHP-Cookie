@@ -6,7 +6,8 @@
  * Licensed under the MIT License (https://opensource.org/licenses/MIT)
  */
 
-namespace Delight\Cookie;
+// Unsupported by old versions of PHP
+// namespace Delight\Cookie;
 
 /**
  * Modern cookie management for PHP
